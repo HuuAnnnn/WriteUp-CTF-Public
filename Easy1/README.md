@@ -11,6 +11,7 @@
 >2. Key: SOLVECRYPTO.
 >3. Được cung cấp file table.txt.
 <font size = 5px>
+
 ```scala
     A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
    +----------------------------------------------------
